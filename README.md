@@ -65,9 +65,8 @@ was modeled and rendered the same day the brief came in.
 
 ## About
 
-Mechanical design engineer (SolidWorks, 11 years, 100+ projects) using Claude
-Code to go from a two-number brief to a reviewable 3D concept in hours, not days.
-<!-- TODO(Nizam): add your LinkedIn/website URL here before publishing -->
+Mechanical design engineer (SolidWorks, 11 years, 100+ projects).
+[linkedin.com/in/nizamyuksel](https://www.linkedin.com/in/nizamyuksel/)
 
 ## License
 
